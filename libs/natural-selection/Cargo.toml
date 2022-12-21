@@ -1,0 +1,15 @@
+[package]
+name = "lib-natural-selection"
+version = "0.0.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+rand = "0.8"
+
+[dev-dependencies]
+rand_chacha = "0.3"
+maplit = "1.0"
+approx = "0.5"
+
